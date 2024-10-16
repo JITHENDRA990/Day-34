@@ -1,0 +1,27 @@
+*{
+    margin:0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.contatiner{
+    width: 100%;
+    min-height: 100vh;
+}
+.flex-2{
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: auto;
+    padding: 100px 0px ;
+}
+.image{
+    width: 40%;
+}
+.content{
+    width: 60%;
+}
+.content h1{
+    color: #008060;
+}
